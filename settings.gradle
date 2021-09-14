@@ -1,0 +1,3 @@
+rootProject.name = "MulticastSocket_Server_Client"
+include ':app'
+include ':Client'
